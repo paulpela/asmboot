@@ -6,7 +6,7 @@ boot_stage_one:
     mov dl, 0
     int 0x13
     mov ah, 0x02
-    mov al, 0x20 ; # of sectors to read (sectors are 512B)
+    mov al, 0x40 ; # of sectors to read (sectors are 512B)
     mov dl, 0
     mov ch, 0
     mov dh, 0
