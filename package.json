@@ -1,0 +1,23 @@
+{
+  "name": "asmboot",
+  "version": "1.0.0",
+  "description": "simple asm bootloader",
+  "main": "boot.asm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulpela/asmboot.git"
+  },
+  "keywords": [
+    "asm",
+    "nasm"
+  ],
+  "author": "paulpela",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/paulpela/asmboot/issues"
+  },
+  "homepage": "https://github.com/paulpela/asmboot#readme"
+}
