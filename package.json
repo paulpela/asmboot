@@ -1,6 +1,6 @@
 {
   "name": "asmboot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple asm bootloader",
   "main": "boot.asm",
   "scripts": {
